@@ -1,0 +1,70 @@
+.line {
+    height: 6px;
+    background-color: antiquewhite;
+    width: 100px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+#ArtApps {
+    padding-top: 20px;
+    background: linear-gradient(#581845 0%, #900C3F 100%);
+    height: 800px
+}
+
+img {
+    width: 250px
+}
+
+#GameApps {
+    background: linear-gradient(#900C3F 0%, #FF5733 100%);
+    height: 1000px;
+    padding: 20px;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+h3 {
+    color: antiquewhite
+}
+
+#ChatBot {
+    background: linear-gradient(#FF5733 0%, #FFC300 100%);
+    padding-top: 20px;
+    height: 600px
+}
+
+.menu {
+    list-style: none;
+    position: sticky;
+    top: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.Link {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+}
+
+.Link a {
+    color: antiquewhite;
+}
+
+#h1_is_not_being_cooperative_so_I_needed_to_make_this_id{
+    margin-right:360px
+    
+}
